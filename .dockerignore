@@ -1,0 +1,11 @@
+flag.txt
+*.xml
+*.docx
+__pycache__
+.idea
+.ruff_cache
+.vscode
+.python-version
+.gitignore
+.git
+
